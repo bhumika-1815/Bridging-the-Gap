@@ -1,4 +1,5 @@
-# Bridging-the-Gap: The Impact of Wages and Housing Markets on U.S. Financial Stability
+# Bridging-the-Gap: The Impact of Wages and Housing Markets on U.S. Financial Stability  
+Data Viz project
 
 ## Team Members:
 Bhumika Mallikarjun Horapet  
